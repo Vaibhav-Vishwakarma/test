@@ -1,0 +1,1 @@
+rh._.exports({"version":"2.3.9","fields":[],"fieldVectors":[],"invertedIndex":[],"pipeline":["replaceSynonymn","stemmer","addQuery"],"documentCount":0})
